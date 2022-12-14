@@ -1,0 +1,15 @@
+.login {
+  padding: 5px 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+
+.preference {
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+  margin: .5rem;
+}

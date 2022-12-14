@@ -1,0 +1,8 @@
+.footer {
+  padding: 20px;
+  background: #343f51;
+  color: #fff;
+  grid-area: footer;
+  height: 100px;
+  margin-bottom: 70px;
+}
